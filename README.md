@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.net 6 onnx model integrations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/waralper1 (Dont have a porfolio yet :( )](https://github.com/waralper1 (Dont have a porfolio yet :( ))
+- 👨‍💻 All of my projects are available at https://github.com/waralper1
 
 - 💬 Ask me about **Anything ^_^**
 
